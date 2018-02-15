@@ -120,3 +120,13 @@ li.sidebarTitle {
     border-color: #015CAE;
 }
 
+a:link, a:visited {
+    color: #F2912E;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+	color: FF8000;
+    text-decoration: underline;
+}
