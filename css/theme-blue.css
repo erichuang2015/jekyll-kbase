@@ -1,11 +1,11 @@
 .summary {
     color: #000000;
-    border-left: 5px solid #FF8000;
+    border-left: 5px solid #5E6914;
     font-size:16px;
 }
 
 
-h3 {color: #FF8000; }
+h3 {color: #5E6914; }
 h4 {color: #000000; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
@@ -127,7 +127,7 @@ a:link {
 
 a:focus,
 a:hover {
-    color: #23527c;
+    color: #5E6914;
     text-decoration: underline;
 	outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
