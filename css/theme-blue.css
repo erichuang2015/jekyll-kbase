@@ -9,7 +9,7 @@ h3 {color: #5E6914; }
 h4 {color: #000000; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-    background-color: #000000;
+    background-color: #248ec2;
     color: white;
 }
 
@@ -22,7 +22,7 @@ h4 {color: #000000; }
 }
 
 div.navbar-collapse .dropdown-menu > li > a:hover {
-    background-color: #347DBE;
+    background-color: #8D8D8D;
 }
 
 .nav li.thirdlevel > a {
