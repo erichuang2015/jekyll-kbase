@@ -1191,7 +1191,7 @@ h4.panel-title {
         float: none;
     }
     .navbar-nav>li>a {
-        padding-top: 100px;
+        padding-top: 10px;
         padding-bottom: 10px;
     }
     .collapse.in{
