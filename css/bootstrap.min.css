@@ -52,14 +52,12 @@ template {
 }
 
 a {
-	background-color: transparent
+    background-color: transparent
 }
 
 a:active,
 a:hover {
     outline: 0
-	color: FF8000;
-    
 }
 
 abbr[title] {
