@@ -32,7 +32,7 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
 }
 
 a[data-toggle="tooltip"] {
-    color: #649345;
+    color: #649345; 
     font-style: italic;
     cursor: default;
 }
@@ -81,8 +81,8 @@ a.navbar-brand:hover {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    background-color: #248ec2;
-    border-color: #347DBE;
+    background-color: #5E6914;
+    border-color: #5E6914;
 }
 
 .printTitle {
