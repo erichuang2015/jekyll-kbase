@@ -1,6 +1,6 @@
 ---
 title: "Purpose"
-keywords: jimmy
+keywords: document purpose
 tags: [document_purpose, purpose, document, purpose]
 sidebar: mydoc_sidebar
 permalink: index.html
