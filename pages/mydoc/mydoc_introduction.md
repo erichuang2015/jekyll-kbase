@@ -8,9 +8,11 @@ folder: mydoc
 ## Overview
 
 Write a brief overview and summarize the product to introduce the reader to the product. This section should cover:
-* That 'What' aspects of the product - what is the product about?  What does the product do? This could include a simple work flow diagram with a brief explanation for the same.
+* That 'What' aspects of the product - what is the product about?  What does the product do?
 * What are the different components/modules of the product?
 * Why should the user consider using the product?
+* An architecture diagram of the product -  followed by a description of the diagram
+* A workflow digram. If is isn't available, create one with the help of the product owner and summarize it.
 
 ## Features
 
