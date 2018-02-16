@@ -14,17 +14,20 @@ Write a brief overview and summarize the product to introduce the reader to the 
 
 ## Features
 
-Describe the features of the product. Cover the things that the user can do by using the product. Some examples include:
+Describe the unique features of the product. Some examples include:
 
-* The kind of framework or technology use can do and its advantages
+* The kind of framework or technology used  to develop the product and the advantages of such a technology or framework
 * The tasks that the user can perform when using the product. 
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+* Cover the things that the user can do by using the product.
+* The options that the user has when using the product. Does the product have alternative methods of navigation? Describe that.
 
-## Getting started
+## Benefits
 
+Describe the unique advantages the user has when using the product compared to other products in the market in this section. Your product manager or product owner will be the best person to help you on this. Some examples include: 
+
+*	Intuitive and easy to use interfaces
+*	Increase in productivity
+*	
 To get started, see [Getting Started][index].
 
 {% include links.html %}
