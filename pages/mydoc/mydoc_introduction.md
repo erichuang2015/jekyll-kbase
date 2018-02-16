@@ -8,7 +8,6 @@ folder: mydoc
 ## Overview
 
 Write a brief overview of the product. Introduce the reader to the product. This section should cover:
-
 * That 'What' aspects of the product, what is the product about. This could include a simple work flow diagram with a brief explanation for the same.
 * What are the different components/modules of the product
 * What does the product do? 
