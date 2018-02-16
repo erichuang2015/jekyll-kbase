@@ -7,13 +7,16 @@ folder: mydoc
 
 ## Overview
 
-This site provides documentation, training, and other notes for the Writarium Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Writarium depends on how your theme is coded. As a result, these additional details are provided.
+Write a brief overview of the product. Introduce the reader to the product. This section should cover:
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+* That 'What' aspects of the product, what is the product about. This could include a simple work flow diagram with a brief explanation for the same.
+* What are the different components/modules of the product
+* What does the product do? 
+* Why should the user consider using the product?
 
-## Survey of features
+## Features
 
-Some of the more prominent features of this theme include the following:
+Describe the features of the product. the kind of framework Some of the more prominent features of this theme include the following:
 
 * Bootstrap framework
 * [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
