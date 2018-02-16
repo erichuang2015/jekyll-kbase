@@ -30,6 +30,6 @@ Describe the unique advantages the user has when using the product compared to o
 *	Intuitive and easy to use interfaces
 *	Increase in productivity
 
-# To get started, see [Getting Started][index].
+## To get started, see [Getting Started][index].
 
 {% include links.html %}
